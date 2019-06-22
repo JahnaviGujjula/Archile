@@ -23,11 +23,6 @@ $ virtualenv -p python3 .env
 ```
 $ source .env/bin/activate
 ```
-### Clone this repository
-```
-$ git clone https://github.com/krishnadey30/Archile.git
-```
-
 ### Install the requirements
 ```
 $ pip install -r requirements.txt
